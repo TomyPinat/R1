@@ -1,0 +1,18 @@
+.hola-mundo {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #4CAF50; /* Verde */
+    background-color: #f0f0f0; /* Fondo claro */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  .hola-mundo:hover {
+    background-color: #e0e0e0; /* Cambia el fondo al pasar el ratón */
+    color: #ff5722; /* Cambia el color del texto al pasar el ratón */
+    cursor: pointer;
+  }
